@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a Software developer.
+DevOps and software.
 
 💫 Check out my [portfolio](https://makeri89.com) 💫
 
